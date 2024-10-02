@@ -1,2 +1,2 @@
-# cfest-info
+# detail-cfest
 project cfest-info
